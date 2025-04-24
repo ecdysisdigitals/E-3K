@@ -32,7 +32,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 1rem;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .logo img {
